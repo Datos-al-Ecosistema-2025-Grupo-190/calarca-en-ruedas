@@ -4,15 +4,35 @@
 
 El producto desarrollado es una herramienta de análisis y visualización para la gestión de la seguridad vial, que combina de manera sistemática datos de siniestralidad, parque automotor y características de los actores viales para identificar tramos críticos, perfilar riesgos específicos y orientar acciones de intervención. Este producto está diseñado para facilitar la toma de decisiones basada en evidencia, apoyar la planificación sectorial y territorial, y servir como insumo operativo para estrategias del Plan Nacional de Seguridad Víal (PNSV) y acciones de cultura ciudadana, fiscalización y formación.
 
+### Actor vial de mayor riesgo para estrategias de comunicación
+
+
+
+### Ajuste de Programas de Habilidades y Destrezas
+
+
+
+### Estandarización de los datos
+
+
+
 ### Tableros de control
+
+Este primer tablero presenta una visión de los siniestros viales ocurridos de 2021 a 2023, permitiendo analizar su comportamiento temporal, espacial y poblacional. Muestra el número de accidentes por mes, destacando picos de siniestralidad en ciertos periodos del año, e identifica las principales causas (con el choque como la más frecuente) junto con la distribución por género, donde predominan los hombres involucrados. También segmenta por rangos de edad, evidenciando mayor incidencia en personas entre 30 y 60 años, y compara la ocurrencia de accidentes entre zonas rurales y urbanas, con clara predominancia de eventos en áreas urbanas. Finalmente, el mapa de calor georreferenciado revela los puntos críticos de accidentalidad dentro del municipio, facilitando la identificación de sectores que requieren intervención prioritaria.
 
 <img alt="image" src="https://github.com/user-attachments/assets/1d4f0469-d232-4acb-b790-7f5fcbf6b43e" />
 
 *Imagen 1. Dashboard con el mapa de calor de los accidentes.*
 
+---
+
+El siguiente tablero profundiza en la relación entre los siniestros viales y los tipos de vehículo involucrados, permitiendo analizar patrones de riesgo más específicos. Se observa la distribución de accidentes por tipo de vehículo, destacando a las motocicletas y automóviles como los más involucrados, y se clasifica la gravedad de los hechos, donde predominan los casos con heridos y daños materiales por encima de los accidentes fatales. También se presenta la composición del parque vehicular registrado, mostrando la proporción de cada categoría y su posible correspondencia con los siniestros. Además, se identifica cuáles marcas presentan mayor participación en accidentes, resaltando a Chevrolet, Suzuki y Renault. Finalmente, el panel destaca las vías con mayor siniestralidad proporcionando información clave para focalizar intervenciones viales y estrategias de control vehicular.
+
 <img alt="image" src="https://github.com/user-attachments/assets/feab42b0-4034-4a57-a9eb-1ddcec80c67d" />
 
 *Imagen 2. Dashboard con el perfil de riesgo de los vehículos y las vías críticas.*
+
+---
 
 ## Descripción del reto
 
@@ -41,5 +61,6 @@ Articular y analizar de forma básica e inmediata los datos abiertos de siniestr
 | ACCIDENTES DE TRANSITO DESDE MARZO 2017 A DICIEMBRE DE 2022 | [https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data) |
 | Sectores críticos mortalidad 2022 | [https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data](https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data) |
 | Vehículos matriculados desde enero de 2020 hasta mayo del 2022 por clase, modelo y tipo de vehículo | [https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data](https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data) |
+
 
 
