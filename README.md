@@ -4,19 +4,21 @@
 
 El producto desarrollado es una herramienta de análisis y visualización para la gestión de la seguridad vial, que combina de manera sistemática datos de siniestralidad, parque automotor y características de los actores viales para identificar tramos críticos, perfilar riesgos específicos y orientar acciones de intervención. Este producto está diseñado para facilitar la toma de decisiones basada en evidencia, apoyar la planificación sectorial y territorial, y servir como insumo operativo para estrategias del Plan Nacional de Seguridad Víal (PNSV) y acciones de cultura ciudadana, fiscalización y formación.
 
-### Actor vial de mayor riesgo para estrategias de comunicación
+### Resultados Integrados del Análisis y Líneas de Acción
 
+Los hallazgos obtenidos a partir del análisis de los datos suministrados por la Alcaldía de Calarcá, complementados con información proveniente de fuentes de datos abiertos, se presentan de manera detallada en el documento [docs/Resultados_Estrategicos_Accidentalidad_Calarca.pdf](https://github.com/Datos-al-Ecosistema-2025-Grupo-190/calarca-en-ruedas/blob/main/docs/Resultados_Estrategicos_Accidentalidad_Calarca.pdf).
+Este archivo consolida los principales productos analíticos y orienta la toma de decisiones basada en evidencia para la gestión de la seguridad vial del municipio.
 
+En particular, el documento desarrolla:
 
-### Ajuste de Programas de Habilidades y Destrezas
-
-
-
-### Estandarización de los datos
-
-
+- Identificación del actor vial de mayor riesgo
+- Ajuste de los Programas de Habilidades y Destrezas
+- Propuesta de estandarización y mejoramiento de datos
 
 ### Tableros de control
+
+>[!important]
+>Los tableros de control se encuentran en la ruta [/dashboard](https://github.com/Datos-al-Ecosistema-2025-Grupo-190/calarca-en-ruedas/tree/main/dashboard) del repositorio. 
 
 Este primer tablero presenta una visión de los siniestros viales ocurridos de 2021 a 2023, permitiendo analizar su comportamiento temporal, espacial y poblacional. Muestra el número de accidentes por mes, destacando picos de siniestralidad en ciertos periodos del año, e identifica las principales causas (con el choque como la más frecuente) junto con la distribución por género, donde predominan los hombres involucrados. También segmenta por rangos de edad, evidenciando mayor incidencia en personas entre 30 y 60 años, y compara la ocurrencia de accidentes entre zonas rurales y urbanas, con clara predominancia de eventos en áreas urbanas. Finalmente, el mapa de calor georreferenciado revela los puntos críticos de accidentalidad dentro del municipio, facilitando la identificación de sectores que requieren intervención prioritaria.
 
@@ -64,6 +66,7 @@ Articular y analizar de forma básica e inmediata los datos abiertos de siniestr
 | Homicidios accidente de tránsito Policía Nacional | [https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-accidente-de-tr-nsito-Polic-a-Nacional/ha6j-pa2r/about_data](https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-accidente-de-tr-nsito-Polic-a-Nacional/ha6j-pa2r/about_data). |
 | VEHICULOS INVOLUCRADOS EN UN ACCIDENTE DE TRANSITO LEY 2251-2022 | [https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data](https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data). |
 | LESIONES ACCIDENTES DE TRÁNSITO | [https://www.datos.gov.co/Seguridad-y-Defensa/LESIONES-ACCIDENTES-DE-TR-NSITO/ntej-qq7v/about_data](https://www.datos.gov.co/Seguridad-y-Defensa/LESIONES-ACCIDENTES-DE-TR-NSITO/ntej-qq7v/about_data) |
+
 
 
 
