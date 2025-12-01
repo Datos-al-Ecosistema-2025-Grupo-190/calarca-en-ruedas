@@ -61,6 +61,10 @@ Articular y analizar de forma básica e inmediata los datos abiertos de siniestr
 | ACCIDENTES DE TRANSITO DESDE MARZO 2017 A DICIEMBRE DE 2022 | [https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data) |
 | Sectores críticos mortalidad 2022 | [https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data](https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data) |
 | Vehículos matriculados desde enero de 2020 hasta mayo del 2022 por clase, modelo y tipo de vehículo | [https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data](https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data) |
+| Homicidios accidente de tránsito Policía Nacional | [https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-accidente-de-tr-nsito-Polic-a-Nacional/ha6j-pa2r/about_data](https://www.datos.gov.co/Seguridad-y-Defensa/Homicidios-accidente-de-tr-nsito-Polic-a-Nacional/ha6j-pa2r/about_data). |
+| VEHICULOS INVOLUCRADOS EN UN ACCIDENTE DE TRANSITO LEY 2251-2022 | [https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data](https://www.datos.gov.co/Transporte/VEHICULOS-INVOLUCRADOS-EN-UN-ACCIDENTE-DE-TRANSITO/6jmc-vaxk/about_data). |
+| LESIONES ACCIDENTES DE TRÁNSITO | [https://www.datos.gov.co/Seguridad-y-Defensa/LESIONES-ACCIDENTES-DE-TR-NSITO/ntej-qq7v/about_data](https://www.datos.gov.co/Seguridad-y-Defensa/LESIONES-ACCIDENTES-DE-TR-NSITO/ntej-qq7v/about_data) |
+
 
 
 
