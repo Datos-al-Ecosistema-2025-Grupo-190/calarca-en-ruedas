@@ -1,5 +1,19 @@
 # Datos al Ecosistema 2025 - Grupo 190
 
+## Descripción de la solución
+
+El producto desarrollado es una herramienta de análisis y visualización para la gestión de la seguridad vial, que combina de manera sistemática datos de siniestralidad, parque automotor y características de los actores viales para identificar tramos críticos, perfilar riesgos específicos y orientar acciones de intervención. Este producto está diseñado para facilitar la toma de decisiones basada en evidencia, apoyar la planificación sectorial y territorial, y servir como insumo operativo para estrategias del Plan Nacional de Seguridad Víal (PNSV) y acciones de cultura ciudadana, fiscalización y formación.
+
+### Tableros de control
+
+<img alt="image" src="https://github.com/user-attachments/assets/bd5aad03-de35-4de2-b7b7-2ed51709358b" />
+
+*Imagen 1. Dashboard con el mapa de calor de los accidentes.*
+
+<img alt="image" src="https://github.com/user-attachments/assets/314d1faf-b5ab-4e2f-b41b-d02f18513fd5" />
+
+*Imagen 2. Dashboard con el perfil de riesgo de los vehículos y las vías críticas.*
+
 ## Descripción del reto
 
 El problema central en la gestión de la seguridad vial no es la falta de datos, sino la falta de articulación de los mismos para generar conocimiento territorial específico. Contamos con información crítica sobre SECTORES CRÍTICOS DE MORTALIDAD y el volumen de ACCIDENTES DE TRÁNSITO, pero esta data _se utiliza de forma aislada_. La clave para la prevención efectiva reside en responder preguntas básicas pero vitales: **¿Cuál es el tipo de vehículo más involucrado en los puntos críticos? ¿Cómo se correlaciona la antigüedad del PARQUE AUTOMOTOR MATRICULADO con la siniestralidad en esos mismos tramos?** Al no tener estas respuestas cruzadas, las entidades diseñan campañas y ejecutan operativos de control de vehículos sin un fundamento geográfico o temático preciso.
@@ -27,3 +41,4 @@ Articular y analizar de forma básica e inmediata los datos abiertos de siniestr
 | ACCIDENTES DE TRANSITO DESDE MARZO 2017 A DICIEMBRE DE 2022 | [https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/about_data) |
 | Sectores críticos mortalidad 2022 | [https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data](https://www.datos.gov.co/Transporte/Sectores-cr-ticos-mortalidad-2022/ybqk-8s42/about_data) |
 | Vehículos matriculados desde enero de 2020 hasta mayo del 2022 por clase, modelo y tipo de vehículo | [https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data](https://www.datos.gov.co/Transporte/Veh-culos-matriculados-desde-enero-de-2020-hasta-m/bj7e-xc9g/about_data) |
+
